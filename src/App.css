@@ -27,3 +27,6 @@
 .vermelho {
   background-color: red;
 }
+.selecionado{
+  border-color: yellow;
+}
