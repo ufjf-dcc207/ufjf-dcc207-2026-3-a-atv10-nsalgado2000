@@ -1,4 +1,12 @@
 .garrafa {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
   border: 5px solid black;
   font-size: 50px
+}
+
+.cor {
+  border-top:4px dotted gray ;
+  flex: 1;
 }
