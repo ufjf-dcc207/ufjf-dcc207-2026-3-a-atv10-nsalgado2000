@@ -1,13 +1,12 @@
-
-import './App.css'
+import "./App.css";
+import Garrafa from "./assets/Garrafa";
 
 function App() {
-
   return (
     <>
-     <div className="garrafa"> ablubluee blue</div>
+      <Garrafa />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
