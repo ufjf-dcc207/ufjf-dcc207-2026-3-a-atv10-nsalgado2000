@@ -1,5 +1,9 @@
 export default function Garrafa() {
 
+  function geraCor(){
+    
+  }
+
   return (
     <>
      <div className="garrafa">

@@ -1,10 +1,10 @@
 import "./App.css";
-import Garrafa from "./assets/Garrafa";
+import Garrafas from "./Garrafas";
 
 function App() {
   return (
     <>
-      <Garrafa />
+      <Garrafas />
     </>
   );
 }
